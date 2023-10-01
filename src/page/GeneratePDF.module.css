@@ -1,0 +1,10 @@
+.inputContainer{
+    max-height: 50vh;
+    overflow: scroll;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+.inputContainer::-webkit-scrollbar {
+    display: none;
+}

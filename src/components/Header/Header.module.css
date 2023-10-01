@@ -1,0 +1,38 @@
+.header {
+  display: flex;
+  justify-content: left;
+  gap: 5%;
+  background-color: rgb(43, 43, 43);
+}
+
+.logo {
+  width: 100px;
+  height: 50px;
+  margin-top: 1%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.logo img {
+  width: 100px;
+  height: 50px;
+  
+}
+
+.headerLink {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  min-width: fit-content;
+  margin-top: 10%;
+}
+
+.navLinks {
+  margin-top: 1.5%;
+  display: flex;
+  justify-content: left;
+  gap: 20%;
+}
+
+.headerLink:hover {
+  color: rgb(249, 222, 191);
+}

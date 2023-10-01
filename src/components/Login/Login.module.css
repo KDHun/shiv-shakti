@@ -1,0 +1,16 @@
+.login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    max-width: fit-content;
+    padding: 2%;
+    margin: auto;
+    margin-top: 10%;
+}
+
+.testing{
+    margin: 10px;
+    font-weight: 700;
+    color:rgb(96, 34, 0)
+}
